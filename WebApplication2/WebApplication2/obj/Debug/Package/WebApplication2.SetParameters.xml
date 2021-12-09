@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="cs-Web.config Connection String" value="Server=proyectos-uai.cs3xirzpr1tr.us-west-2.rds.amazonaws.com,1433;Database=suitapp;Persist Security Info=False;User ID=admin;Password=Lenovo*T480;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" />
+</parameters>

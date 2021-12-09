@@ -1,0 +1,162 @@
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebGrease.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\c.ruesca\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\WebGrease.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\Facultad\2019\Segundo Cuatrimestre\Trabajo de Diploma\Api Rest\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\FEDERICO\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\FEDERICO\Desktop\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\c.ruesca\Desktop\Tique\Tique\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache

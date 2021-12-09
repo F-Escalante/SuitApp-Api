@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="tiqueapirest" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\FEDERICO\\Desktop\\Tique\\WebApplication2\\WebApplication2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\FEDERICO\\Desktop\\Tique\\WebApplication2\\WebApplication2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="cs-Web.config Connection String" description="" value="Server=tcp:tiquedb.database.windows.net,1433;Initial Catalog=Buscador_Servicios;Persist Security Info=False;User ID=tiqueadmin;Password=Sarasa*1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\FEDERICO\\Desktop\\Tique\\WebApplication2\\WebApplication2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cs']/@connectionString" />
+  </parameter>
+</parameters>

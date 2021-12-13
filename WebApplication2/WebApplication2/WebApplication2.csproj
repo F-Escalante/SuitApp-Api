@@ -146,6 +146,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AddressController.cs" />
+    <Compile Include="Controllers\QuestionsController.cs" />
     <Compile Include="Controllers\ShoppingController.cs" />
     <Compile Include="Controllers\FavoritesController.cs" />
     <Compile Include="Controllers\CartController.cs" />
@@ -164,6 +165,9 @@
     </Compile>
     <Compile Include="Models\Address.cs" />
     <Compile Include="Models\ArticulosAdd.cs" />
+    <Compile Include="Models\AnswerAdd.cs" />
+    <Compile Include="Models\QuestionsAdd.cs" />
+    <Compile Include="Models\Questions.cs" />
     <Compile Include="Models\ComprasAdd.cs" />
     <Compile Include="Models\Compras.cs" />
     <Compile Include="Models\FavoritosAdd.cs" />

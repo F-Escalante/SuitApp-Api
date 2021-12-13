@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="cs-Web.config Connection String" description="cs Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=proyectos-uai.cs3xirzpr1tr.us-west-2.rds.amazonaws.com,1433;Database=suitapp;Persist Security Info=False;User ID=admin;Password=Lenovo*T480;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\c\.ruesca\\Desktop\\Tique\\Tique\\WebApplication2\\WebApplication2\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cs']/@connectionString" />
+  <parameter name="cs-Web.config Connection String" description="cs Connection String used in web.config by the application to access the database." defaultValue="Server=proyectos-uai.cs3xirzpr1tr.us-west-2.rds.amazonaws.com,1433;Database=suitapp;Persist Security Info=False;User ID=admin;Password=Lenovo*T480;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\fescalante\\Downloads\\WebApplication2\\WebApplication2\\WebApplication2\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cs']/@connectionString" />
   </parameter>
 </parameters>

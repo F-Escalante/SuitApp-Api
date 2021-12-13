@@ -2602,5 +2602,261 @@ namespace WebApplication2.Models
             return id_usuario;
         }
         #endregion
+
+        public static List<Questions> getQuestions(int articleId, string email)
+        {
+            DataTable dataTable = new DataTable();
+            List<Questions> questionsList = new List<Questions>();
+            //A TRAVEZ DE LA CADENA DE CONEXION DEL WEBCONFIG Y LA OBTENEMOS  
+            //CON EL CONFIGURATIONMANAGER 
+            using (SqlConnection con = new SqlConnection(
+                ConfigurationManager.ConnectionStrings["cs"]
+                .ConnectionString))
+            {
+
+                {
+                    try
+                    {
+                        con.Open();
+
+                        int usuarioIdOwner = consultaIdUsuarioOwner(articleId);
+                        int usuarioIdConsulta = consultaIdUsuarioPorHash(email);
+
+                        bool owner = false;
+                        if(usuarioIdConsulta == usuarioIdOwner)
+                        {
+                            owner = true;
+                        }
+                        
+                        SqlCommand command3 = new SqlCommand("sp_get_questions", con);
+                        command3.CommandType = CommandType.StoredProcedure;
+                        command3.Parameters.AddWithValue("@p_id_articulo", articleId);
+                        command3.ExecuteNonQuery();
+                        dataTable.Load(command3.ExecuteReader());
+                        questionsList = Questions.serializarQuestions(dataTable, owner);
+
+                    }
+                    catch (SqlException x)
+                    {
+                        Console.WriteLine(x);
+                    }
+                    catch (Exception x)
+                    {
+                        Console.WriteLine(x);
+                    }
+                    finally
+                    {
+
+                        con.Close();
+
+                    }
+
+                }
+            }
+            //REGRESAMOS LOS DATOS COMO DATOS EN MEMORIA                                     
+
+            return questionsList;
+
+        }
+
+        public static bool addQuestion(QuestionsAdd questionsAdd)
+        {
+            DataTable dataTable = new DataTable();
+
+
+            bool result = false;
+
+            int id_usuario = consultaIdUsuarioPorHash(questionsAdd.email);
+            //A TRAVEZ DE LA CADENA DE CONEXION DEL WEBCONFIG Y LA OBTENEMOS  
+            //CON EL CONFIGURATIONMANAGER 
+            using (SqlConnection con = new SqlConnection(
+                ConfigurationManager.ConnectionStrings["cs"]
+                .ConnectionString))
+            {
+
+                {
+                    try
+                    {
+                        con.Open();
+
+                        SqlCommand command2 = new SqlCommand("sp_ins_question", con);
+                        command2.CommandType = CommandType.StoredProcedure;
+                        command2.Parameters.AddWithValue("@user_id", id_usuario);
+                        command2.Parameters.AddWithValue("@article_id", questionsAdd.articleId);
+                        command2.Parameters.AddWithValue("@question", questionsAdd.question);
+                        command2.ExecuteNonQuery();
+
+                        result = true;
+                        
+                    }
+                    catch (SqlException x)
+                    {
+                        result = false;
+                        return result;
+                    }
+                    catch (Exception x)
+                    {
+                        result = false;
+                        return result;
+                    }
+                    finally
+                    {
+
+                        con.Close();
+
+                    }
+
+                }
+            }                  
+            return result;
+        }
+
+        public static bool addAnswer(AnswerAdd answerAdd)
+        {
+            DataTable dataTable = new DataTable();
+
+            bool result = false;
+                        
+            //A TRAVEZ DE LA CADENA DE CONEXION DEL WEBCONFIG Y LA OBTENEMOS  
+            //CON EL CONFIGURATIONMANAGER 
+            using (SqlConnection con = new SqlConnection(
+                ConfigurationManager.ConnectionStrings["cs"]
+                .ConnectionString))
+            {
+
+                {
+                    try
+                    {
+                        con.Open();
+
+                        SqlCommand command2 = new SqlCommand("sp_update_question", con);
+                        command2.CommandType = CommandType.StoredProcedure;
+                        command2.Parameters.AddWithValue("@question_id", answerAdd.questionId);
+                        command2.Parameters.AddWithValue("@answer", answerAdd.answer);
+                        command2.ExecuteNonQuery();
+
+                        result = true;
+
+                    }
+                    catch (SqlException x)
+                    {
+                        result = false;
+                        return result;
+                    }
+                    catch (Exception x)
+                    {
+                        result = false;
+                        return result;
+                    }
+                    finally
+                    {
+
+                        con.Close();
+
+                    }
+
+                }
+            }
+            return result;
+        }
+        public static bool deleteAnswer(string email, string articleId, string questionId)
+        {
+            DataTable dataTable = new DataTable();
+
+            bool result = false;
+
+            //A TRAVEZ DE LA CADENA DE CONEXION DEL WEBCONFIG Y LA OBTENEMOS  
+            //CON EL CONFIGURATIONMANAGER 
+            using (SqlConnection con = new SqlConnection(
+                ConfigurationManager.ConnectionStrings["cs"]
+                .ConnectionString))
+            {
+
+                {
+                    try
+                    {
+                        con.Open();
+
+                        SqlCommand command2 = new SqlCommand("sp_del_answer", con);
+                        command2.CommandType = CommandType.StoredProcedure;
+                        command2.Parameters.AddWithValue("@question_id", questionId);
+                        command2.ExecuteNonQuery();
+
+                        result = true;
+
+                    }
+                    catch (SqlException x)
+                    {
+                        result = false;
+                        return result;
+                    }
+                    catch (Exception x)
+                    {
+                        result = false;
+                        return result;
+                    }
+                    finally
+                    {
+
+                        con.Close();
+
+                    }
+
+                }
+            }
+            return result;
+        }
+        public static int consultaIdUsuarioOwner(int articleId)
+        {
+            int id_usuario = 0;
+            using (SqlConnection con = new SqlConnection(
+               ConfigurationManager.ConnectionStrings["cs"]
+               .ConnectionString))
+            {
+
+                {
+
+                    try
+                    {
+                        con.Open();
+                        SqlCommand command = new SqlCommand("select user_id from stores s join articles a on s.store_id = a.store_id where a.article_id = @articleId", con);
+                        command.Parameters.AddWithValue("@articleId", articleId);
+                        DataTable usuario = new DataTable();
+                        usuario.Load(command.ExecuteReader());
+
+                        if (usuario.Columns.Contains("user_id"))
+                        {
+                            id_usuario = Convert.ToInt32(usuario.Rows[0]["user_id"]);
+                        }
+                        else
+                        {
+                            id_usuario = 0;
+
+                        }
+
+                        return id_usuario;
+                    }
+                    catch (SqlException x)
+                    {
+                        Console.WriteLine(x);
+                        /*   DataTable dataTable = new DataTable();              
+
+                           SqlCommand command = new SqlCommand("DELETE from Buscador_Servicios.dbo.servicios where id_servicio = @id_servicio", con);
+                           command.Parameters.AddWithValue("@id_servicio", id_servicio);
+                           command.ExecuteNonQuery();*/
+
+                    }
+                    finally
+                    {
+
+                        con.Close();
+
+                    }
+
+                }
+            }
+            return id_usuario;
+        }
+
     }// Fin de la clase.
 }

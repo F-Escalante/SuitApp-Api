@@ -11,16 +11,16 @@ using System.Configuration;
 
 namespace WebApplication2.Models
 {
-    
+
     public class Articulos
     {
-        
+
         public int articleId { get; set; }
-       
+
         public int storeId { get; set; }
         public String articleName { get; set; }
-        
-        
+
+
         public float articlePrice { get; set; }
         // public List<Imagenes> images { get; set; }
         public string articleImage { get; set; }
@@ -29,6 +29,7 @@ namespace WebApplication2.Models
         public String articleDescription { get; set; }
         public int commentsQty { get; set; }
 
+     
         public static Articulos serializarArticulos(DataTable dataTable)
         {
 
@@ -178,5 +179,8 @@ namespace WebApplication2.Models
 
             return imagen;
         }
+        
+        
+        }
+          
     }
-}
